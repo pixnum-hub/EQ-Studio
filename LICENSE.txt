@@ -1,0 +1,169 @@
+================================================================================
+                         EQ STUDIO — PROPRIETARY FREEWARE LICENSE
+                              © Manik Roy 2026. All Rights Reserved.
+================================================================================
+
+SOFTWARE:       EQ Studio — Professional Audio & Video Player
+AUTHOR:         Manik Roy
+VERSION:        1.0
+EFFECTIVE DATE: 2026
+
+--------------------------------------------------------------------------------
+PREAMBLE
+--------------------------------------------------------------------------------
+
+This License Agreement ("Agreement") governs your use of EQ Studio, including
+its source code, compiled files, assets, icons, and all associated files
+(collectively, the "Software"). By downloading, installing, accessing, or using
+the Software in any way, you agree to be bound by the terms of this Agreement.
+
+If you do not agree to these terms, you must not use, download, or retain any
+copy of the Software.
+
+--------------------------------------------------------------------------------
+1. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+
+Subject to the terms and conditions of this Agreement, Manik Roy ("Author")
+grants you a personal, non-exclusive, non-transferable, non-sublicensable,
+revocable, worldwide license to:
+
+  (a) Download and install the Software on your personal devices;
+  (b) Use the Software solely for personal, non-commercial purposes;
+  (c) Share the Software in its original, unmodified form, provided that this
+      License file is included in full with every copy distributed.
+
+This license is free of charge. No payment is required for personal use.
+
+--------------------------------------------------------------------------------
+2. RESTRICTIONS — WHAT YOU MAY NOT DO
+--------------------------------------------------------------------------------
+
+The following are strictly prohibited without prior written permission from
+the Author:
+
+  (a) SOURCE CODE: You may not copy, decompile, reverse-engineer, disassemble,
+      or otherwise attempt to derive the source code of the Software, in whole
+      or in part, regardless of the purpose.
+
+  (b) MODIFICATION: You may not modify, adapt, translate, alter, or create
+      derivative works based on the Software or any portion thereof.
+
+  (c) REDISTRIBUTION OF MODIFIED COPIES: You may not distribute, publish, or
+      make available any modified version of the Software under any name,
+      whether or not it is presented as a separate product.
+
+  (d) COMMERCIAL USE: You may not use the Software, or any portion of it, for
+      commercial purposes, including but not limited to: selling the Software,
+      bundling it with a paid product or service, incorporating it into a
+      commercial application, or using it to generate revenue in any form.
+
+  (e) SUBLICENSING: You may not sublicense, rent, lease, lend, or otherwise
+      transfer rights to the Software to any third party.
+
+  (f) REMOVAL OF NOTICES: You may not remove, alter, obscure, or replace any
+      copyright notice, trademark, attribution notice, or this License from
+      any copy of the Software, including the "© Manik Roy" credit displayed
+      within the application.
+
+  (g) REBRANDING: You may not remove or replace the name "EQ Studio" or the
+      attribution to Manik Roy, or present the Software as your own creation.
+
+  (h) OPEN-SOURCE PUBLICATION: You may not publish, upload, or submit the
+      Software or any of its files to any open-source platform, repository,
+      or registry (including but not limited to GitHub, GitLab, npm, or
+      similar services) as an open-source or publicly licensed project.
+
+--------------------------------------------------------------------------------
+3. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+
+The Software, including all code, design, graphics, icons, and assets, is and
+remains the exclusive intellectual property of Manik Roy. This Agreement does
+not transfer any ownership rights to you. All rights not expressly granted
+herein are reserved by the Author.
+
+The headphone icon, artwork, and visual identity of EQ Studio are original
+works authored by or licensed to Manik Roy and are protected under applicable
+copyright law.
+
+--------------------------------------------------------------------------------
+4. ATTRIBUTION
+--------------------------------------------------------------------------------
+
+Any permitted redistribution of the Software in its original, unmodified form
+must clearly display the following attribution in a visible location:
+
+      EQ Studio — © Manik Roy 2026. All Rights Reserved.
+
+This notice must not be removed from the application interface, the LICENSE
+file, or any accompanying documentation.
+
+--------------------------------------------------------------------------------
+5. NO WARRANTY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED,
+SECURE, OR COMPATIBLE WITH YOUR DEVICES OR SYSTEMS. YOU USE THE SOFTWARE
+ENTIRELY AT YOUR OWN RISK.
+
+--------------------------------------------------------------------------------
+6. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MANIK ROY
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR
+EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO
+USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN NO EVENT SHALL THE AUTHOR'S TOTAL LIABILITY TO YOU EXCEED THE AMOUNT YOU
+PAID FOR THE SOFTWARE (WHICH, FOR FREE SOFTWARE, IS ZERO).
+
+--------------------------------------------------------------------------------
+7. TERMINATION
+--------------------------------------------------------------------------------
+
+This license is effective until terminated. Your rights under this Agreement
+will terminate automatically, without notice, if you breach any term of this
+Agreement. Upon termination, you must immediately cease all use of the Software
+and delete all copies in your possession or control.
+
+The Author reserves the right to revoke this license at any time with or without
+cause, by providing notice through any reasonable means.
+
+--------------------------------------------------------------------------------
+8. GOVERNING LAW
+--------------------------------------------------------------------------------
+
+This Agreement shall be governed by and construed in accordance with applicable
+copyright and intellectual property law. Any disputes arising under or in
+connection with this Agreement shall be subject to the exclusive jurisdiction
+of the courts of competent authority in the Author's country of residence.
+
+--------------------------------------------------------------------------------
+9. ENTIRE AGREEMENT
+--------------------------------------------------------------------------------
+
+This Agreement constitutes the entire agreement between you and Manik Roy
+with respect to the Software and supersedes all prior or contemporaneous
+understandings, communications, or agreements, written or oral, regarding the
+Software.
+
+If any provision of this Agreement is held to be unenforceable, the remaining
+provisions will continue in full force and effect.
+
+--------------------------------------------------------------------------------
+10. CONTACT
+--------------------------------------------------------------------------------
+
+For licensing inquiries, commercial use requests, or permissions beyond the
+scope of this Agreement, contact the Author directly.
+
+================================================================================
+                    © Manik Roy 2026. All Rights Reserved.
+         EQ Studio is proprietary freeware. Not open source. Not public domain.
+================================================================================
